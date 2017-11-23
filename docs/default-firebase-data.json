@@ -5,7 +5,14 @@
       "name" : "GDG Jaén",
       "url" : "http://gdgjaen.me",
       "width" : 350
-    } ],
+    },
+    {
+      "logoUrl" : "../images/logos/apryme.png",
+      "name" : "Apryme",
+      "url" : "https://apryme.es",
+      "width" : 350
+    }
+  ],
     "title" : "Organiza"
   }, {
     "logos" : [ {
@@ -13,7 +20,7 @@
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
-    "title" : "General Partner"
+    "title" : "Patrocinador premium"
   } ],
   "schedule" : [ {
     "date" : "2016-09-09",
@@ -161,7 +168,7 @@
     "title" : "Google Developer Expert"
   },
   {
-    "bio" : "Eusebio Experto en, entre otras, las áreas de: big data, ingeniería de datos, computación en la nube, internet de las cosas (IoT), aprendizaje automático y desarrollo en Python. Especialista en Google Cloud Platform y entre los profesionales con más experiencia en Google App Engine de España.",
+    "bio" : "Marcos es experto en, entre otras, las áreas de: big data, ingeniería de datos, computación en la nube, internet de las cosas (IoT), aprendizaje automático y desarrollo en Python. Especialista en Google Cloud Platform y entre los profesionales con más experiencia en Google App Engine de España.",
     "company" : "Indavelopers",
     "companyLogo" : "/images/logos/indavelopers.png",
     "country" : "Almería, España",
@@ -183,172 +190,170 @@
    ],
     "tags" : [ "Big Data", "Cloud", "IoT" ],
     "title" : "GDG Almería"
-  }],
+  },
+  {
+    "bio" : "En Deusens crean soluciones tecnológicas que optimizan el proceso de comercialización y potencian el valor de marca de sus clientes.",
+    "company" : "DeuSens",
+    "companyLogo" : "/images/logos/deusens.png",
+    "country" : "Zaragoza, España",
+    "featured" : false,
+    "id" : 3,
+    "name" : "Álvaro Monzón Blanco",
+    "photoUrl" : "/images/people/alvaro_monzon.jpg",
+    "shortBio" : "Cofounder & CPO in DeuSens",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/%C3%A1lvaro-monz%C3%B3n-blanco-bbaa8488/",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "Realidad Virtual", "Realidad Aumentada" ],
+    "title" : "DeuSens"
+  },
+  {
+    "bio" : "Mi Red Empresarial  especializados en Desarrollo Rural, Biodiversidad y Medio Ambiente. Con personal técnico que cuenta con más de 15 años de experiencia en el sector Agroalimentario y el medio rural.",
+    "company" : "Mi Red Empresarial",
+    "companyLogo" : "/images/logos/mi_red_empresarial.png",
+    "country" : "Jaén, España",
+    "featured" : false,
+    "id" : 4,
+    "name" : "Carmen Rueda Florido",
+    "photoUrl" : "/images/people/carmen_rueda.jpg",
+    "shortBio" : "Gerente en Mi Red Empresarial",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/carmen-rueda-florido-a737a053/",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "IoT"],
+    "title" : "Mi Red Empresarial"
+  },
+  {
+    "bio" : "Guillermo tiene amplios conocimientos de posicionamiento de webs en buscadores (SEO), conoce las técnicas de SEO on Page y también Offpage como el Linkbuilding entre otras para posicionar las palabras claves especificadas en mejores puestos en los buscadores de internet",
+    "company" : "Software DELSOL",
+    "companyLogo" : "/images/logos/delsol.png",
+    "country" : "Mengíbar, Jaén, España",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Guillermo del Pino",
+    "photoUrl" : "/images/people/guillermo_del_pino.jpg",
+    "shortBio" : "Consultor SEO",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/guille_delpino",
+      "name" : "Twitter"
+    },
+    {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/guillermo-del-pino-hern%C3%A1ndez-0968b312a/",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "SEO", "Web"],
+    "title" : "Software DELSOL"
+  },
+  {
+    "bio" : "Toda su actividad profesional ha estado vinculada al mundo de la Comunicación y el Marketing. <br> Actualmente, se dedica a gestionar identidades digitales en los Medios Sociales y a formar a futuros Community Managers. ",
+    "company" : "Agencia Chris Aparicio",
+    "companyLogo" : "/images/logos/chris_aparicio.svg",
+    "country" : "Jaén, España",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Christina Aparicio",
+    "photoUrl" : "/images/people/chris_aparicio.jpg",
+    "shortBio" : "CEO en Chris Aparicio (Agencia de Marketing, especializada en Medios Sociales)",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/chris_aparicio_",
+      "name" : "Twitter"
+    },
+    {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/chrisaparicio/",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "Community Management", "Marketing", "Comunicaión"],
+    "title" : "Chris Aparicio"
+  },
+  {
+    "bio" : "Estudio Nemo es un joven estudio de apps y juegos para Android e IOS en Granada, pueden contar que  entre sus objetivos está ofrecer entretenimiento agente de todas las edades. Tienen el compromiso de crear experiencias divertidas para todos mediante una gama de juegos que vamos desarrollando, son bastante dinámicos, flexibles y se adaptan al cambio.",
+    "company" : "Estudio Nemo",
+    "companyLogo" : "/images/logos/etudio_nemo.png",
+    "country" : "Granada, España",
+    "featured" : false,
+    "id" : 7,
+    "name" : "Alfonso Jurado Mesa",
+    "photoUrl" : "/images/logos/etudio_nemo.png",
+    "shortBio" : "CEO en Estudio Nemo",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/Estudio_Nemo",
+      "name" : "Twitter"
+    }
+   ],
+    "tags" : [ "Videojuegos"],
+    "title" : "Estudio Nemo"
+  }
+  ],
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
+      "name" : "Abdallah Abedraba",
+      "photoUrl" : "/images/people/abdallah_abedraba.jpg",
       "socials" : [ {
         "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
+        "link" : "https://plus.google.com/u/0/111980840517947192328",
         "name" : "Google+"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
+        "link" : "https://www.facebook.com/aabedraba",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/aabedraba",
         "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Website and sponsors"
-    }, {
-      "name" : "Sofiya Huts",
-      "photoUrl" : "/images/people/sofiya_huts.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photoUrl" : "/images/people/vitaliy_zasadnyy.jpg",
-      "socials" : [ {
+      }, 
+      {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
+        "link" : "https://linkedin.com/in/aabedraba",
+        "name" : "LinkedIn"
+      },
+      {
+        "icon" : "github",
+        "link" : "https://github.com/aabedraba/",
+        "name" : "Github"
       } ],
-      "title" : "Speakers"
+      "title" : "Organizador"
     }, {
-      "name" : "Marta Maxymiak",
-      "photoUrl" : "/images/people/marta_maxymiak.jpg",
+      "name" : "José Ángel Graus",
+      "photoUrl" : "/images/people/jose_angel.jpg",
       "socials" : [ {
         "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
-        "name" : "Facebook"
-      } ],
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Ostap Andrusiv",
-      "photoUrl" : "/images/people/ostap_andrusiv.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Sponsors"
-    }, {
-      "name" : "Vasylyna Mytsak",
-      "photoUrl" : "/images/people/vasylyna_mytsak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Volodya Karpliuk",
-      "photoUrl" : "/images/people/volodya_karpliuk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
-      } ],
-      "title" : "Speakers"
-    }, {
-      "name" : "Diana Pinchuk",
-      "photoUrl" : "/images/people/diana_pinchuk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photoUrl" : "/images/people/dmytro_danylyk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
+        "link" : "https://plus.google.com/u/0/100197045500708338426",
         "name" : "Google+"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
+        "link" : "https://twitter.com/joseangelggraus",
         "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
-  } ],
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/joseangelgraus/",
+        "name" : "LinkedIn"
+      }
+    ],
+      "title" : "Organizador"
+    }, {
+      "name" : "José Honrubia",
+      "photoUrl" : "/images/people/pepe_honrubia.jpg",
+      "socials" : [ ],
+      "title" : "Organizador"
+    }
+  ],
+    "title" : "Equipo de organización"
+  }
+],
   "tickets" : {
     "elements" : [ {
       "currency" : "€",
