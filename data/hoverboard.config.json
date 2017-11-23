@@ -34,7 +34,7 @@
   },
   "hashtag": "devfestjaen",
   "disqusShortName": "gdg-jaen-devfest",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://devfestjaen17.herokuapp.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000",
   "partnershipProposition": "https://drive.google.com/file/d/0B9-X1dawMO-1ZjJSNzlCQlQyLW8/view?usp=sharing",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
