@@ -23,11 +23,11 @@
   "clickToViewPhotos": "Haz click aquí para ver más fotos",
   "partners": "Patrocinadores",
   "becomePartner": "Sé un patrocinador",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "Ver todos los vídeos",
+  "featuredVideosTitle": "Aprende más sobre los GDGs",
+  "featuredVideosViewAll": "",
   "featuredPeopleTitle": "Nuestros speakers",
   "featuredPeopleViewAll": "Ver todos los speakers",
-  "action": "Mira cómo fue",
+  "action": "",
   "locationTitle": "Universidad de Jaén",
   "locationDescription": "La Universidad de Jaén ofrece espacios para el desarrollo del evento, pero también ofrece la cafetería y espacios para sentarse y tomar aire.",
   "locationAddress": "Campus Las Lagunillas, S/N",
@@ -118,7 +118,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
+    "videoTitle": "Google Developer Groups",
     "videoId": "DfMnJAzOFng"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "url": "https://gdg-jaen-devfest.firebaseapp.com/",
+  "url": "https://gdgjaendevfest17.firebaseapp.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "gdg-jaen-devfest",
-    "domain": "gdg-jaen-devfest.firebaseapp.com",
-    "database": "https://gdg-jaen-devfest.firebaseio.com",
-    "api": "AIzaSyAgZmSRI99knmK5_JeuOEHn0ATdPSkQFWI",
+    "name": "gdgjaendevfest17",
+    "domain": "https://gdgjaendevfest17.firebaseapp.com",
+    "database": "https://gdgjaendevfest17.firebaseio.com",
+    "api": "AIzaSyCDDi3MbH0SLwcW_gmrbvPt-widA2i9-dY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -84,18 +84,18 @@
     "address": "Campus Las Lagunillas s/n, Jaén, España",
     "link": "ujaen.es",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 37.789352,
+      "longitude": -3.777863,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 37.789352,
+      "longitude": -3.777863
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/ujaen1.jpg",
+      "/images/backgrounds/ujaen2.jpg",
+      "/images/backgrounds/ujaen3.jpg"
     ]
   },
   "gallery": {
