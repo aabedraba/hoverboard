@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://gdg-jaen-devfest.firebaseapp.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -7,8 +7,8 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Jaen",
+    "twitter": "gdgJaen"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,36 +16,32 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "gdg-jaen-devfest",
+    "domain": "gdg-jaen-devfest.firebaseapp.com",
+    "database": "https://gdg-jaen-devfest.firebaseio.com",
+    "api": "AIzaSyAgZmSRI99knmK5_JeuOEHn0ATdPSkQFWI",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "url": "https://www.meetup.com/es/GDG-Jaen?action=join",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "es-ES",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "devfestjaen",
+  "disqusShortName": "gdg-jaen-devfest",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "https://drive.google.com/file/d/0B9-X1dawMO-1ZjJSNzlCQlQyLW8/view?usp=sharing",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -63,30 +59,30 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGJaen",
+      "url": "https://twitter.com/gdgJaen"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "116243063925737679471",
+      "url": "https://plus.google.com/116243063925737679471"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGJaen",
+      "url": "https://www.facebook.com/GDGJaen"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "google-developers-group-Jaen",
+      "url": "https://www.linkedin.com/in/gdg-jaén-53951b152/"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Edificio A3 - Universidad de Jaén",
+    "address": "Campus Las Lagunillas s/n, Jaén, España",
+    "link": "ujaen.es",
     "pointer": {
       "latitude": 49.809841,
       "longitude": 23.972805,
@@ -103,7 +99,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://photos.app.goo.gl/ofDcmfilDKB3W7Lf2",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -121,20 +117,12 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "GDG Jaén DevFest 2017",
+          "youtubeId": "-ccY4i0J5S4",
+          "text": "¿Qué es un DevFest?"
         },
         "hideLogo": true,
         "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
       }
     },
     "speakers": {
@@ -146,7 +134,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Horario",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -154,7 +142,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Equipo",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -162,7 +150,7 @@
       }
     },
     "cod": {
-      "title": "Code of Conduct",
+      "title": "Código de Conducta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
