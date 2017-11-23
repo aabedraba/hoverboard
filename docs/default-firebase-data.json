@@ -1454,30 +1454,16 @@
   } ],
   "tickets" : {
     "elements" : [ {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "info" : "Requires valid student ID",
-      "name" : "Student",
-      "price" : 500,
+      "currency" : "€",
+      "ends" : "1 Diciembre",
+      "info" : "200 plazas",
+      "name" : "General",
+      "price" : 5,
       "soldOut" : false,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "July 1",
-      "info" : "Or first 100 tickets",
-      "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "name" : "Lazy Bird",
-      "price" : 1000,
-      "soldOut" : false,
-      "starts" : "July 1"
-    } ],
-    "url" : "http://2event.com/events/630032"
+      "starts" : "Nov 24"
+    }
+   ],
+    "url" : "https://www.meetup.com/es/GDG-Jaen/events/243806320/"
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",
