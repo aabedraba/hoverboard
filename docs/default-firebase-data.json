@@ -1,3 +1,5 @@
+
+
 {
   "partners" : [ {
     "logos" : [ {
@@ -45,6 +47,11 @@
       "logoUrl" : "../images/logos/departamento_de_informatica.png",
       "name" : "Dpto. de Informática",
       "url" : "https://estudios.ujaen.es/node/11/presentacion"
+    },
+    {
+      "logoUrl" : "../images/logos/vicrel.jpeg",
+      "name" : "Vicerrectorado de Relaciones con la Sociedad e Insercion Laboral",
+      "url" : "https://www10.ujaen.es/conocenos/organos-gobierno/vicrel/inicio"
     }
    ],
     "title" : "Patrocinan"
@@ -88,130 +95,182 @@
   "title" : "Colaboran"
   } ],
   "schedule" : [ {
-    "date" : "2016-09-09",
-    "dateReadable" : "September 9",
-    "timeslots" : [ {
-      "endTime" : "10:00",
-      "sessions" : [ [ 132 ] ],
-      "startTime" : "09:00"
-    }, {
-      "endTime" : "10:15",
-      "sessions" : [ [ 136 ] ],
-      "startTime" : "10:00"
-    }, {
+    "date" : "2017-12-02",
+    "dateReadable" : "2 de Diciembre",
+    "timeslots" : [ 
+    {
       "endTime" : "11:00",
-      "sessions" : [ [ 139 ] ],
-      "startTime" : "10:15"
-    }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 103 ], [ 120 ], [ 109 ] ],
+      "sessions" : [ [ 114 ] ],
+      "startTime" : "10:00"
+    },
+    {
+      "endTime" : "11:30",
+      "sessions" : [ [ 115 ] ],
       "startTime" : "11:00"
-    }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 129 ], [ 116 ], [ 109 ] ],
-      "startTime" : "11:50"
-    }, {
+    },
+    {
+      "endTime" : "13:00",
+      "sessions" : [ [ 101 ], [ 102 ], [ 103 ] ],
+      "startTime" : "12:00"
+    },
+    {
       "endTime" : "14:00",
-      "sessions" : [ [ 133 ] ],
-      "startTime" : "12:30"
-    }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 101 ], [ 118 ], [ 107 ] ],
-      "startTime" : "14:00"
-    }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 140 ], [ 126 ], [ 107 ] ],
-      "startTime" : "14:50"
-    }, {
+      "sessions" : [ [ 104 ], [ 102 ] ,[ 105 ] ],
+      "startTime" : "13:00"
+    },
+    {
       "endTime" : "16:00",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "15:30"
-    }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 105 ], [ 127 ], [ 119 ] ],
-      "startTime" : "16:00"
-    }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 112 ], [ 111 ], [ 119 ] ],
-      "startTime" : "16:50"
-    }, {
-      "endTime" : "18:20",
-      "sessions" : [ [ 106 ], [ 125 ], [ 119 ] ],
-      "startTime" : "17:40"
-    }, {
-      "endTime" : "22:30",
-      "sessions" : [ [ 137 ] ],
-      "startTime" : "18:30"
-    } ],
-    "tracks" : [ {
-      "title" : "Expo hall"
-    }, {
-      "title" : "Conference hall"
-    }, {
-      "title" : "Workshops hall"
-    } ]
-  }, {
-    "date" : "2016-09-10",
-    "dateReadable" : "September 10",
-    "timeslots" : [ {
-      "endTime" : "10:10",
-      "sessions" : [ [ 135 ] ],
-      "startTime" : "09:30"
-    }, {
-      "endTime" : "10:50",
-      "sessions" : [ [ 114 ], [ 117 ], [ 121 ] ],
-      "startTime" : "10:10"
-    }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 122 ], [ 113 ], [ 121 ] ],
-      "startTime" : "11:00"
-    }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 104 ], [ 124 ], [ 121 ] ],
-      "startTime" : "11:50"
-    }, {
-      "endTime" : "14:00",
-      "sessions" : [ [ 133 ] ],
-      "startTime" : "12:30"
-    }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 108 ], [ 128 ], [ 102 ] ],
+      "sessions" : [ [ 111 ] ],
       "startTime" : "14:00"
-    }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 110 ], [ 123 ], [ 102 ] ],
-      "startTime" : "14:50"
-    }, {
-      "endTime" : "16:00",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "15:30"
-    }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 131 ], [ 140 ], [ 130 ] ],
+    },
+    {
+      "endTime" : "17:00",
+      "sessions" : [ [ 106 ], [ 107 ], [ 108 ]   ],
       "startTime" : "16:00"
-    }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 115 ], [ 140 ], [ 130 ] ],
-      "startTime" : "16:50"
-    } ],
+    },
+    {
+      "endTime" : "18:00",
+      "sessions" : [ [ 110 ], [ 109 ] ],
+      "startTime" : "17:00"
+    },
+    {
+      "endTime" : "19:00",
+      "sessions" : [ [ 112 ] ],
+      "startTime" : "18:00"
+    },
+    {
+      "endTime" : "19:30",
+      "sessions" : [ [ 113 ] ],
+      "startTime" : "19:00"
+    }
+  ],
     "tracks" : [ {
-      "title" : "Expo hall"
-    }, {
-      "title" : "Conference hall"
-    }, {
-      "title" : "Workshops hall"
-    } ]
+      "title" : "Edificio C3"
+    },
+    {
+      "title" : "Edificio C3"
+    },
+    {
+      "title" : "Edificio C3"
+    }
+   ]
   } ],
   "sessions" : {
     "101" : {
-      "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "complexity" : "Aula A3",
+      "description" : "En este momento tengo ganancias por medio de mis webs con la publicidad de Google Adsense, además trabajo el posicionamiento de la 2º empresa de Software de gestión de España, Software DELSOL. En esta charla quiero contaros mi historia, como he llegado hasta aquí y como se puede ganar dinero de forma real en Internet, sin falsos infoproductos ni engaños y/o perdidas de tiempo.",
       "id" : 101,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers" : [ 5 ],
+      "tags" : [ "Web" ],
+      "title" : "Ganar dinero con Internet es posible"
+    },
+    "102" : {
+      "complexity" : "Aula A4",
+      "description" : "¿Estas pensando en emprender? ¿Tienes una idea y te guastaría llevarla a cabo? ¿Estar trabajando en un sideproyect y quieres llevarlo más allá? ¿eres una startup? Este taller es para ti. Vamos a compartir procesos de diseño de producto, identificar los problemas más frecuentes y darte herramientas para solucionarlo.",
+      "id" : 102,
       "speakers" : [ 1 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "tags" : [ "Startup" ],
+      "title" : "De la idea al producto. MVP,  Itererar, Lanzar (taller)"
+    },
+    "103" : {
+      "complexity" : "Aula A5",
+      "description" : "Como representante del grupo SINAI (Sistemas Inteligentes de Acceso a la Información) de la Universidad de Jaén, expondré los diferentes problemas a los que nos enfrentamos los investigadores al intentar desarrollar nuevas formas para conseguir comunicar de forma natural humanos y máquinas. Hablaremos sobre los problemas que presentan los sistemas más utilizados hoy en día por la sociedad, tomando como base ejemplos extraídos directamente de estas plataformas, así como de algunos de los trabajos que se están realizando dentro del grupo para intentar solventarlos.",
+      "id" : 103,
+      "speakers" : [ 4 ],
+      "tags" : [ "Inteligencia Artificial" ],
+      "title" : "Tecnologías del Lenguaje Humano. El gran reto de la Inteligencia Artificial."
+    },
+    "104" : {
+      "complexity" : "Aula A1",
+      "description" : "Los videojuegos son otra forma de contar historias, pero aunque parezca una forma nueva podemos encontrar claras influencias de otra forma narrativa anterior, el cine. En esta charla os mostraremos los videojuegos desde una perspectiva que los relaciona directamente con el séptimo arte. ",
+      "id" : 104,
+      "speakers" : [ 7 ],
+      "tags" : [ "Videojuegos" ],
+      "title" : "La narrativa del cine aplicada al videojuego"
+    },
+    "105" : {
+      "complexity" : "Aula A5",
+      "description" : "En desarrollo...",
+      "id" : 105,
+      "speakers" : [ 6 ],
+      "tags" : [ "Marketing" ],
+      "title" : "Marketing como forma de vida "
+    },
+    "106" : {
+      "complexity" : "Aula A3",
+      "description" : "En desarrollo...",
+      "id" : 106,
+      "speakers" : [ 8 ],
+      "tags" : [ "Realidad Virtual y Aumentada"  ],
+      "title" : "Tecnologías inmersivas: RV & AR"
+    },
+    "107" : {
+      "complexity" : "Aula A6",
+      "description" : "6 años en el mundo de internet es toda una vida, y como todo, la nube también ha debido y sabido evolucionar. De ser unas simples plataformas donde desplegar máquinas virtuales, han evolucionado hasta una larga gama de servicios que han revolucionado no sólo cómo entendemos el hosting, sino todo tipo de arquitecturas de SW online. Ven a esta charla con varias demos si quieres ver cómo podemos aprovechar la escalabilidad, alta disponibilidad y los servicios auxiliares y administrados de GCP en 2017",
+      "id" : 107,
+      "speakers" : [ 2 ],
+      "tags" : [ "Cloud"  ],
+      "title" : "Qué nos ofrece hoy Google Cloud Platform tras 6 años de vida"
+    },
+      "108" : {
+      "complexity" : "Aula A6",
+      "description" : "Se pondrá en valor la actualidad y lo que nos depara internet, a lo que también se le ha llamado: El Internet de las Cosas.",
+      "id" : 108,
+      "speakers" : [ 9 ],
+      "tags" : [ "Internet de las Cosas"  ],
+      "title" : "IoT: El Internet de las Cosas"
+    },
+    "109" : {
+      "complexity" : "Aula A6",
+      "description" : "Hoy en día tanto la informática gráfica como la geomática son partes centrales en nuestra vida, ya sea en películas, videojuegos, aplicaciones de posicionamiento, CAD o a partir de las ciudades inteligentes. En esta charla explicaré algunos de nuestros proyectos en el Grupo de Gráficos y Geomática de Jaén (GGGJ) y cómo creamos nuevos productos que conectan ciencia, animación, simulación y visualización utilizando nuevos paradigmas y metodologías innovadoras. <br> Ofrecido por GGGJ Grupo de Gráficos y Geomática de Jaén.",
+      "id" : 109,
+      "speakers" : [ 3 ],
+      "tags" : [ "Graphics" ],
+      "title" : "Del Laboratorio al Pixel"
+    },
+    "110" : {
+      "complexity" : "Aula A1",
+      "description" : "¿Por qué están pagando mucho dinero a informáticos que saben Machine Learning? <br> Machine Learning es darle a los ordenadores la capacidad de aprender de forma parecida a cómo lo hacemos los humanos. En esta charla cubriremos los fundamentos del Machine Learning: qué es, para qué sirve, cómo puedo empezar a aprender y mucho más.",
+      "id" : 110,
+      "speakers" : [ 10 ],
+      "tags" : [ "Machine Learning"  ],
+      "title" : "Machine Learnig para principiantes"
+    },
+    "111" : {
+      "complexity" : "Edificio C4",
+      "description" : "Comidaaaaaaaaaa",
+      "id" : 111,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Almuerzo"
+    },
+    "112" : {
+      "complexity" : "Edificio C4",
+      "description" : "Meriendaaaaaaaa",
+      "id" : 112,
+      "image" : "/images/backgrounds/coffee_break.jpg",
+      "title" : "Merienda"
+    },
+    "113" : {
+      "complexity" : "Edicio C3",
+      "description" : "Sorpresa, sorpresa.",
+      "image" : "/images/backgrounds/regalos.jpg",      
+      "id" : 113,
+
+      "title" : "Sorteo y clausura"
+    },
+    "114" : {
+      "complexity" : "Edicio C3",      
+      "description" : "Deberá traer su entrada de MeetUp en el móvil o impresa.",
+      "id" : 114,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Acreditación"
+    },
+    "115" : {
+      "complexity" : "Aula A2",      
+      "description" : "Presentación de la mano de Alfonso Márquez y bienvenida al GDG de Jaén.",
+      "id" : 115,
+      "image" : "/images/backgrounds/2015_1.jpg",
+      "title" : "Inaugración"
     }
   },
   "speakers" : [ null, {
@@ -229,7 +288,7 @@
       "link" : "https://www.linkedin.com/in/ereyero/",
       "name" : "LinkedIn"
     } ],
-    "tags" : [ "GDE", "Emprendimiento", "Hackity" ],
+    "tags" : [ "GDE", "Emprendimiento", "Startup" ],
     "title" : "Google Developer Expert"
   },
   {
@@ -255,44 +314,48 @@
    ],
     "tags" : [ "Big Data", "Cloud", "IoT" ],
     "title" : "GDG Almería"
-  },
-  {
-    "bio" : "En Deusens crean soluciones tecnológicas que optimizan el proceso de comercialización y potencian el valor de marca de sus clientes.",
-    "company" : "DeuSens",
-    "companyLogo" : "/images/logos/deusens.png",
-    "country" : "Zaragoza, España",
-    "featured" : false,
-    "id" : 3,
-    "name" : "Álvaro Monzón Blanco",
-    "photoUrl" : "/images/people/alvaro_monzon.jpg",
-    "shortBio" : "Cofounder & CPO in DeuSens",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/%C3%A1lvaro-monz%C3%B3n-blanco-bbaa8488/",
-      "name" : "LinkedIn"
-    }
-   ],
-    "tags" : [ "Realidad Virtual", "Realidad Aumentada" ],
-    "title" : "DeuSens"
-  },
-  {
-    "bio" : "Mi Red Empresarial  especializados en Desarrollo Rural, Biodiversidad y Medio Ambiente. Con personal técnico que cuenta con más de 15 años de experiencia en el sector Agroalimentario y el medio rural.",
-    "company" : "Mi Red Empresarial",
-    "companyLogo" : "/images/logos/mi_red_empresarial.png",
+  },{
+    "bio" : "Alejandro es ingeniero en informática y estudiante de doctorado por la Universidad de Jaén. Sus líneas de investigación se incluyen dentro de la informática gráfica y los sistemas de información geográfica. Está interesado en la computación gráfica de altas prestaciones y tiene amplia experiencia en programación en GPU y en programación de aplicaciones gráficas.",
+    "company" : "CEATIC",
+    "companyLogo" : "/images/logos/ceatic.png",
     "country" : "Jaén, España",
-    "featured" : false,
-    "id" : 4,
-    "name" : "Carmen Rueda Florido",
-    "photoUrl" : "/images/people/carmen_rueda.jpg",
-    "shortBio" : "Gerente en Mi Red Empresarial",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Alejandro Graciano Segura",
+    "photoUrl" : "/images/people/graciano.png",
+    "shortBio" : "PhD Candidate, Universidad de Jaén",
     "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/carmen-rueda-florido-a737a053/",
-      "name" : "LinkedIn"
+      "icon" : "website",
+      "link" : "https://gggj.ujaen.es/graciano",
+      "name" : "Perfil GGGJ"
     }
    ],
-    "tags" : [ "IoT"],
-    "title" : "Mi Red Empresarial"
+    "tags" : [ "Graphics", "Geográfica", "Investigación", "Docencia"],
+    "title" : "CEATIC"
+  },
+  {
+    "bio" : "Salud es ingeniera en informática y diplomada en estadística por la Universidad de Jaén. En la actualidad está realizando su doctorado dentro del grupo SINAI. Entre sus áreas de interés se encuentra el análisis de sentimientos, concretamente el tratamiento de la negación y el análisis a nivel de aspectos, dos temas de especial relevancia para el procesamiento del lenguaje natural.",
+    "company" : "CEATIC",
+    "companyLogo" : "/images/logos/ceatic.png",
+    "country" : "Jaén, España",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Salud María Jiménez Zafra",
+    "photoUrl" : "/images/people/salud_maría.JPG",
+    "shortBio" : "Ingeniera en Informática y Diplomada en Estadística, Universidad de Jaén",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/saludjz",
+      "name" : "Twitter"
+    },
+    {
+      "icon" : "website",
+      "link" : "http://wwwdi.ujaen.es/?q=es/node/1903",
+      "name" : "Página web"
+    }
+   ],
+    "tags" : [ "Lenguaje humano", "Inteligencia Artificial", "Investigación", "Docencia"],
+    "title" : "CEATIC"
   },
   {
     "bio" : "Guillermo tiene amplios conocimientos de posicionamiento de webs en buscadores (SEO), conoce las técnicas de SEO on Page y también Offpage como el Linkbuilding entre otras para posicionar las palabras claves especificadas en mejores puestos en los buscadores de internet",
@@ -339,7 +402,7 @@
       "name" : "LinkedIn"
     }
    ],
-    "tags" : [ "Community Management", "Marketing", "Comunicaión"],
+    "tags" : [ "Community Management", "Marketing", "Comunicación"],
     "title" : "Chris Aparicio"
   },
   {
@@ -360,6 +423,86 @@
    ],
     "tags" : [ "Videojuegos"],
     "title" : "Estudio Nemo"
+  },
+  {
+    "bio" : "En Deusens crean soluciones tecnológicas que optimizan el proceso de comercialización y potencian el valor de marca de sus clientes.",
+    "company" : "DeuSens",
+    "companyLogo" : "/images/logos/deusens.png",
+    "country" : "Zaragoza, España",
+    "featured" : false,
+    "id" : 8,
+    "name" : "Álvaro Monzón Blanco",
+    "photoUrl" : "/images/people/alvaro_monzon.jpg",
+    "shortBio" : "Cofounder & CPO in DeuSens",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/%C3%A1lvaro-monz%C3%B3n-blanco-bbaa8488/",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "Realidad Virtual", "Realidad Aumentada" ],
+    "title" : "DeuSens"
+  },
+  {
+    "bio" : "Mi Red Empresarial  especializados en Desarrollo Rural, Biodiversidad y Medio Ambiente. Con personal técnico que cuenta con más de 15 años de experiencia en el sector Agroalimentario y el medio rural.",
+    "company" : "Mi Red Empresarial",
+    "companyLogo" : "/images/logos/mi_red_empresarial.png",
+    "country" : "Jaén, España",
+    "featured" : false,
+    "id" : 9,
+    "name" : "Carmen Rueda Florido",
+    "photoUrl" : "/images/people/carmen_rueda.jpg",
+    "shortBio" : "Gerente en Mi Red Empresarial",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/carmen-rueda-florido-a737a053/",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "IoT"],
+    "title" : "Mi Red Empresarial"
+  },
+  {
+    "bio" : "Abdallah es estudiante de informática de segundo año. En su tiempo libre le gusta organizar eventos, ",
+    "company" : "GDG Jaén",
+    "companyLogo" : "/images/logos/logo.svg",
+    "country" : "Jaén, España",
+    "featured" : false,
+    "id" : 10,
+    "name" : "Abdallah Abedraba",
+    "photoUrl" : "/images/people/abdallah_abedraba.jpg",
+    "shortBio" : "GDG Organizer",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/u/0/111980840517947192328",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/aabedraba",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/aabedraba",
+      "name" : "Twitter"
+    }, 
+    {
+      "icon" : "linkedin",
+      "link" : "https://linkedin.com/in/aabedraba",
+      "name" : "LinkedIn"
+    },
+    {
+      "icon" : "github",
+      "link" : "https://github.com/aabedraba/",
+      "name" : "Github"
+    },
+    {
+      "icon" : "gmail",
+      "link" : "emailto:aabedraba@gmail.com",
+      "name" : "Correo"
+    }
+   ],
+    "tags" : [ "Machine Learning", "Tensorflow", "Inteligencia Artificial"],
+    "title" : "GDG Jaén"
   }
   ],
   "team" : [ {
@@ -388,7 +531,13 @@
         "icon" : "github",
         "link" : "https://github.com/aabedraba/",
         "name" : "Github"
-      } ],
+      },
+      {
+        "icon" : "gmail",
+        "link" : "emailto:aabedraba@gmail.com",
+        "name" : "Correo"
+      }
+     ],
       "title" : "Organizador"
     }, {
       "name" : "José Ángel Graus",
@@ -406,14 +555,61 @@
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/joseangelgraus/",
         "name" : "LinkedIn"
+      },
+      {
+        "icon" : "gmail",
+        "link" : "emailto:joseangelgraus@gmail.com",
+        "name" : "Correo"
       }
     ],
       "title" : "Organizador"
     }, {
       "name" : "José Honrubia",
       "photoUrl" : "/images/people/pepe_honrubia.jpg",
-      "socials" : [ ],
+      "socials" : [ 
+        {
+          "icon" : "gmail",
+          "link" : "emailto:metadonaaa@gmail.com",
+          "name" : "Correo"
+        }
+      ],
       "title" : "Organizador"
+    },
+    {
+      "name" : "Juana Amaro",
+      "photoUrl" : "/images/people/juana_amaro.jpeg",
+      "socials" : [
+        {
+          "icon" : "facebook",
+          "link" : "https://facebook.com/juani.amarogonzalez",
+          "name" : "Facebok"
+        }
+       ],
+      "title" : "Organizadora"
+    },
+    {
+      "name" : "Carlos Borras",
+      "photoUrl" : "/images/people/carlos_borras.jpeg",
+      "socials" : [ 
+        {
+          "icon" : "gmail",
+          "link" : "emailto:carlos.borras555@gmail.com",
+          "name" : "Correo"
+        }
+      ],
+      "title" : "Organizador"
+    },
+    {
+      "name" : "Lourdes Mercado",
+      "photoUrl" : "/images/people/lourdes_mercado.jpeg",
+      "socials" : [ 
+        {
+          "icon" : "gmail",
+          "link" : "emailto:lmercadocalero@gmail.com",
+          "name" : "Correo"
+        }
+      ],
+      "title" : "Organizadora"
     }
   ],
     "title" : "Equipo de organización"
@@ -424,9 +620,9 @@
       "currency" : "€",
       "ends" : "1 Diciembre",
       "info" : "200 plazas",
-      "name" : "General",
+      "name" : "GENERAL",
       "price" : 5,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "Nov 24"
     }
    ],

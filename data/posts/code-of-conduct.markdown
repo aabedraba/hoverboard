@@ -49,5 +49,5 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 # 7. Contact info
 
-- Oleh Zasadnyy, +38 093 486 64 60, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [sofia.huts@gmail.com](mailto:sofia.huts@gmail.com)
+- Abdallah Abedraba, +34 631 648 065, [aabedraba@gdg.org.ua](mailto:aabedraba@gdg.org.ua)
+- José Ángel Graus, [gdgjaen@gmail.com](mailto:gdgjaen@gmail.com)

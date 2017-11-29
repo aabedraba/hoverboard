@@ -1,7 +1,7 @@
 {
   "title": "GDG Jaén DevFest 2017",
   "description": "¡El mayor evento de tecnología de Jaén, traído para ti por la comunidad de GDG! Todo sobre Web, Videojuegos, Realidad virtual y Cloud explicado por expertos.",
-  "keywords": "event, gdg, gde, devfest, google, programación, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "Startup, Inteligencia Artificial, Videojuegos, Realidad Virtual y Aumentada, Marketing, Informática Gráfica, Internet de las Cosas, Investigación, Realidad Virtual, Machine Learning, IoT, devfest, google, programación, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "2 de Diciembre, 2017",
   "locationAddressShort": "Jaén, España",
   "motto": "Sé un GDG. ¡Sé un héroe!",
@@ -14,7 +14,7 @@
   "subscribeNote": "No spam ;)",
   "contactUs": "Contáctanos",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "El ticket incluye entrada al evento y a todas las charlas además de el almuerzo y la merienda... ¡y muchos más regalos!",
+  "ticketsDetails": "El ticket incluye entrada al evento y a todas las charlas además del almuerzo y la merienda... ¡y muchos más regalos!",
   "close": "Cerrado",
   "soldOutTickets": "Agotado",
   "socialTitle": "Redes Sociales",
@@ -32,8 +32,8 @@
   "locationDescription": "La Universidad de Jaén ofrece espacios para el desarrollo del evento, pero también ofrece la cafetería y espacios para sentarse y tomar aire.",
   "locationAddress": "Campus Las Lagunillas, S/N",
   "organizerTitle": "Organizador",
-  "aboutOrganizers": "<a href='gdgjaen.me' target='_blank'>GDG Jaén</a> con la ayuda de Google y el pequeño equipo que lo forma, es orgulloso organizador de este evento.",
-  "openTeamPage": "Abrir página del equipo",
+  "aboutOrganizers": "GDG Jaén",
+  "openTeamPage": "Ver equipo",
   "whatIsGdg": "¿Qué es un GDG?",
   "aboutGdg": "Google Developers Group (GDG) -es un una comunidad de informáticos voluntarios que se reúnen con pasión para tratar temas que les interesa y compartir sus experiencias.",
   "readMore": "Leer más",
@@ -59,15 +59,15 @@
   "rateSession": "Rate session",
   "footerBlocks": [
     {
-      "title": "For los asistentes",
+      "title": "Para los asistentes",
       "links": [
         {
-          "text": "Team",
+          "text": "Equipo organizador",
           "url": "/team/",
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "Código de conducta",
           "url": "/cod/",
           "newTab": false
         },
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Para los patrocinadores",
       "links": [
         {
           "text": "Sé un patrocinador",
@@ -98,7 +98,7 @@
     ]
   },
   "teamPageTitle": "Equipo",
-  "teamPageText": "Google es bien conocida alrededor del mundo: todo el mundo 'Googlea', guiándose con el 'maps' y comprobando el 'gmail'. Para usuarios simples, estos servicios son suficientes, pero no para nosotros. Los desarrolladores vemos mucho más: APIs, problemas de escalabilidad, componentes tecnológicos difíciles de entender y demás. ¡Y de eso trata el GDG!<br><br> [Google Developers Group (GDG) Jaén](http://gdgjaen.me/) - es un grupo abierto de aficionados a la tecnología que actúan como voluntarios, que crean proyectos excitantes y comparten experiencias sobre las tecnologías de Google con pasión.<br><br> Nuestro objetivo es organizar un espacio para conectar con la mejor industria de expertos de la comarca y la comunidad autónoma para acelerar el desarrollo de la tecnología de la información.",  
+  "teamPageText": "[Google Developers Group (GDG) Jaén](http://gdgjaen.me/) - es un grupo abierto de aficionados a la tecnología que actúan como voluntarios, que crean proyectos excitantes y comparten experiencias sobre las tecnologías de Google con pasión.<br><br> Nuestro objetivo es organizar un espacio para conectar con la mejor industria de expertos de la comarca y la comunidad autónoma para acelerar el desarrollo de la tecnología de la información.",  
   "statistics": [
     {
       "counter": 200,

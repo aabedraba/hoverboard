@@ -1,5 +1,5 @@
 {
-  "url": "https://gdgjaendevfest17.firebaseapp.com/",
+  "url": "https://gdgjaen,me/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "gdgjaendevfest17",
-    "domain": "https://gdgjaendevfest17.firebaseapp.com",
+    "domain": "gdgjaen.me",
     "database": "https://gdgjaendevfest17.firebaseio.com",
     "api": "AIzaSyCDDi3MbH0SLwcW_gmrbvPt-widA2i9-dY",
     "userSessionsPath": "/userSessions",
